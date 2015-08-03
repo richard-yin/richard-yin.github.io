@@ -7,6 +7,8 @@ githubSiteApp.controller('IndexCtrl', function($scope) {
 	{'title': 'Test 1',
 	'href': 'test1.html'},
 	{'title': 'Test 2',
-	'href': 'test2.html'}
+	'href': 'test2.html'},
+	{'title': 'Github profile',
+	'href': 'https://github.com/richard-yin'}
 	]
 });
